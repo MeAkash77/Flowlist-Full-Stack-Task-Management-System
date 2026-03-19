@@ -54,7 +54,7 @@ This project shows the power of **Next.js** and serves as a practical demonstrat
 
 ## 🚀 **Live Deployment**
 
-The application is deployed live on **Vercel**. You can access it at [https://todo-app-nextjs-stack.vercel.app/](https://todo-app-nextjs-stack.vercel.app/landing).
+The application is deployed live on **Vercel**. You can access it at [https://flowlist-full-stack-task-management.vercel.app/](https://flowlist-full-stack-task-management.vercel.app//landing).
 
 The app features a landing page, authentication (login, register, and forgot password), a to-do list, and a Swagger API documentation page, as well as real-time to-do updates using WebSockets.
 
